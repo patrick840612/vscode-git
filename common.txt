@@ -10,7 +10,9 @@ abcefg
 
 456
 
-ㄻㅂ
+ㄱㄴㄷ
 
 bbbbb
 ccccc
+abcde
+aaaaa
