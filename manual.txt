@@ -15,15 +15,3 @@ c
 ccc
 dddaa
 bbb
-
-reset2
-
-reset2
-
-reset2
-
-reset
-
-test2
-
-test
